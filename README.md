@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Zachary Milan
+# Hi, my name is Zach Milan
 
-## 💻 About Me
+## About Me
 I’m a recent **Computer Engineering graduate from the University of Michigan** (May 2025)  
 with experience in **embedded systems, PCB design, and hardware/software integration.**  
 
@@ -9,14 +9,14 @@ with a focus on usability, power efficiency, and real-world deployment.
 
 ---
 
-## 🔧 Technical Skills
+## Technical Skills
 - **Programming & Languages**: C, C++, SystemVerilog, Python, Bash  
 - **Embedded Systems & Tools**: STM32, ESP32, ARM Cortex-M, FreeRTOS, Linux, KiCad, VSCode, Git  
 - **Hardware Tools & Interfaces**: Oscilloscope, Logic Analyzer, Multimeter, I²C, SPI, UART  
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 UM-LED — BLE Controlled LED Display  
 *Role: System Designer & Firmware Developer*  
@@ -42,17 +42,17 @@ with a focus on usability, power efficiency, and real-world deployment.
 
 ---
 
-## 🎓 Education
+## Education
 **University of Michigan** — B.S.E. in Computer Engineering (May 2025)  
 Relevant Coursework: Advanced Embedded Systems, Embedded Control Systems, Computer Architecture, Data Structures & Algorithms, Logic Design, Signals & Systems  
 
 ---
 
-## 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 💻 [GitHub](https://github.com/yourusername)  
-- 📧 zmilan@umich.edu  
+## Connect With Me
+-  [LinkedIn](https://linkedin.com/in/your-link)  
+-  [GitHub](https://github.com/yourusername)  
+-  zmilan@umich.edu  
 
 ---
 
-⭐️ *I’m excited to bring my embedded systems background, hands-on project experience, and problem-solving mindset to a full-time engineering role.*  
+*I’m excited to bring my embedded systems background, hands-on project experience, and problem-solving mindset to a full-time engineering role.*  
