@@ -1,42 +1,58 @@
 # 👋 Hi, I’m Zachary Milan
 
 ## 💻 About Me
-I’m a recent **Computer Engineering graduate from the University of Michigan**  
-with a focus on **embedded systems, PCB design, and hardware/software integration.**  
+I’m a recent **Computer Engineering graduate from the University of Michigan** (May 2025)  
+with experience in **embedded systems, PCB design, and hardware/software integration.**  
 
-I enjoy taking projects from concept → schematic → PCB layout → firmware bring-up,  
-and I’m currently working on **UM-LED**, a dual-PCB Bluetooth-controlled LED display system.  
+I enjoy taking projects from **concept → schematic → PCB layout → firmware bring-up**,  
+with a focus on usability, power efficiency, and real-world deployment.
 
 ---
 
 ## 🔧 Technical Skills
-- **Embedded Systems**: STM32, ESP32, FreeRTOS, low-power design
-- **Programming**: C, C++, Python, Arduino/embedded C frameworks
-- **Hardware Design**: KiCad, PCB layout, schematic capture, power regulation
-- **Communication Protocols**: I²C, SPI, UART, BLE, USB
-- **Tools**: Git/GitHub, STM32CubeIDE, Arduino IDE, JTAG/SWD debugging
+- **Programming & Languages**: C, C++, SystemVerilog, Python, Bash  
+- **Embedded Systems & Tools**: STM32, ESP32, ARM Cortex-M, FreeRTOS, Linux, KiCad, VSCode, Git  
+- **Hardware Tools & Interfaces**: Oscilloscope, Logic Analyzer, Multimeter, I²C, SPI, UART  
 
 ---
 
 ## 🚀 Featured Projects
-- **[UM-LED](https://github.com/your-umled-repo)**: Dual-PCB BLE LED display featuring capacitive touch, haptics, SD-card logging, and USB-C rechargeability.  
-- **[DoorNote](https://github.com/your-doornote-repo)**: ESP32-powered ePaper door display that wakes periodically to fetch messages/images from AWS, optimized for ultra-low power.  
+
+### 🔹 UM-LED — BLE Controlled LED Display  
+*Role: System Designer & Firmware Developer*  
+- Developing an STM32-based LED display with BLE control, capacitive-touch brightness adjustment, haptic feedback, auto-dimming, SD-card power logging, and USB-C rechargeability.  
+- Completed system specification, functional block diagrams, physical design concept, remote pin mapping, power estimation, and major component selection; currently designing the remote PCB schematic.  
+👉 [Project Repo](https://github.com/your-umled-repo) | [Design Notes (Google Doc)](https://docs.google.com/your-link-here)  
 
 ---
 
-## 🎯 Current Goals
-- Preparing for **embedded systems engineering roles** with a focus on firmware, hardware integration, and product design.  
-- Expanding skills in **real-time operating systems** and **low-power embedded platforms.**  
-- Continuing to grow projects that blend **electronics, firmware, and user experience.**  
+### 🔹 DoorNote — Low Power Wireless Door Display  
+*Role: PCB Designer & Firmware Engineer*  
+- Designed and assembled a 2-layer PCB for a battery-powered ESP32-based door display, integrating USB charging, battery monitoring, and a physical shutdown switch.  
+- Achieved ~7 months of battery life through hardware and firmware optimizations; contributed to interface design and usability planning.  
+👉 [Project Repo](https://github.com/your-doornote-repo) | [Design Report (Google Doc)](https://docs.google.com/your-link-here)  
+
+---
+
+### 🔹 Superscalar RISC-V Processor & Debugger  
+*Role: Microarchitecture Engineer & Tool Developer*  
+- Implemented core modules of an out-of-order R10K processor, including reservation station, register alias table, and dual-banked instruction cache.  
+- Developed a C++/NCurses terminal-based GUI debugger to visualize processor state per cycle, saving tens of hours in integration and testing.  
+👉 [Processor Report (Google Doc)](https://docs.google.com/your-link-here)  
+
+---
+
+## 🎓 Education
+**University of Michigan** — B.S.E. in Computer Engineering (May 2025)  
+Relevant Coursework: Advanced Embedded Systems, Embedded Control Systems, Computer Architecture, Data Structures & Algorithms, Logic Design, Signals & Systems  
 
 ---
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/your-link)  
 - 💻 [GitHub](https://github.com/yourusername)  
-- 📧 zach.milan@email.com  
+- 📧 zmilan@umich.edu  
 
 ---
 
-⭐️ *I’m excited to bring my embedded systems background, hands-on project experience,  
-and problem-solving mindset to a full-time engineering role.*  
+⭐️ *I’m excited to bring my embedded systems background, hands-on project experience, and problem-solving mindset to a full-time engineering role.*  
