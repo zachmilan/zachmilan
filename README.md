@@ -1,4 +1,12 @@
- Hi there 👋
+<h1> Zachary Milan </h1>
+
+<code> I am a recent computer engineering graduate from the University of Michigan with an interest in embedded systems and hardware/sotware integration, specifically consumer products. I like to think about the end-user experience, and design for the end-user throughout the build process. I am currently working on a personal project (UM_LED), a remote-controlled LED display for my desk in the shape of Michigan's "Block M". The project will include features such as capacative touch brightness control, haptic feedback, auto-dim, and power logging to an SD card. I am currently seeking a full-time role in a related field. 
+
+Please feel free to reach out to me at zmilan@umich.edu 
+</code> 
+
+
+
 
 <!--
 **zachmilan/zachmilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
