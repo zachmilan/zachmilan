@@ -1,24 +1,42 @@
-<h1> Zachary Milan </h1>
+# 👋 Hi, I’m Zachary Milan
 
-<code> I am a recent computer engineering graduate from the University of Michigan with an interest in embedded systems and hardware/sotware integration, specifically consumer products. I like to think about the end-user experience, and design for the end-user throughout the build process. I am currently working on a personal project (UM_LED), a remote-controlled LED display for my desk in the shape of Michigan's "Block M". The project will include features such as capacative touch brightness control, haptic feedback, auto-dim, and power logging to an SD card. I am currently seeking a full-time role in a related field. 
+## 💻 About Me
+I’m a recent **Computer Engineering graduate from the University of Michigan**  
+with a focus on **embedded systems, PCB design, and hardware/software integration.**  
 
-Please feel free to reach out to me at zmilan@umich.edu 
-</code> 
+I enjoy taking projects from concept → schematic → PCB layout → firmware bring-up,  
+and I’m currently working on **UM-LED**, a dual-PCB Bluetooth-controlled LED display system.  
 
+---
 
+## 🔧 Technical Skills
+- **Embedded Systems**: STM32, ESP32, FreeRTOS, low-power design
+- **Programming**: C, C++, Python, Arduino/embedded C frameworks
+- **Hardware Design**: KiCad, PCB layout, schematic capture, power regulation
+- **Communication Protocols**: I²C, SPI, UART, BLE, USB
+- **Tools**: Git/GitHub, STM32CubeIDE, Arduino IDE, JTAG/SWD debugging
 
+---
 
-<!--
-**zachmilan/zachmilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
+- **[UM-LED](https://github.com/your-umled-repo)**: Dual-PCB BLE LED display featuring capacitive touch, haptics, SD-card logging, and USB-C rechargeability.  
+- **[DoorNote](https://github.com/your-doornote-repo)**: ESP32-powered ePaper door display that wakes periodically to fetch messages/images from AWS, optimized for ultra-low power.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Goals
+- Preparing for **embedded systems engineering roles** with a focus on firmware, hardware integration, and product design.  
+- Expanding skills in **real-time operating systems** and **low-power embedded platforms.**  
+- Continuing to grow projects that blend **electronics, firmware, and user experience.**  
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 💻 [GitHub](https://github.com/yourusername)  
+- 📧 zach.milan@email.com  
+
+---
+
+⭐️ *I’m excited to bring my embedded systems background, hands-on project experience,  
+and problem-solving mindset to a full-time engineering role.*  
