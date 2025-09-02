@@ -1,11 +1,8 @@
 # Hi, my name is Zach Milan
 
-## About Me
-I’m a recent **Computer Engineering graduate from the University of Michigan** (May 2025)  
-with experience in **embedded systems, PCB design, and hardware/software integration.**  
-
-I enjoy taking projects from **concept → schematic → PCB layout → firmware bring-up**,  
-with a focus on usability, power efficiency, and real-world deployment.
+## 💻 About Me
+I’m a recent **Computer Engineering graduate from the University of Michigan (May 2025)**  
+with experience in embedded systems, PCB design, and hardware/software integration, applied across projects spanning ideation to completion. 
 
 ---
 
