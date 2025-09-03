@@ -16,7 +16,6 @@ I’m a recent **Computer Engineering graduate from the University of Michigan (
 ## Featured Projects
 
 ### 🔹 UM-LED — BLE Controlled LED Display  
-*Role: System Designer & Firmware Developer*  
 - Developing an STM32-based LED display with BLE control, capacitive-touch brightness adjustment, haptic feedback, auto-dimming, SD-card power logging, and USB-C rechargeability.  
 - Completed system specification, functional block diagrams, physical design concept, remote pin mapping, power estimation, and major component selection; currently designing the remote PCB schematic.  
   [Project Repo](https://github.com/zachmilan/UM-LED) | [Design Notes (Google Drive)](https://drive.google.com/drive/folders/1vLWpR2sffBaYYivLrqG__IRlMgBAgPwl?usp=sharing)  
@@ -24,7 +23,6 @@ I’m a recent **Computer Engineering graduate from the University of Michigan (
 ---
 
 ### 🔹 DoorNote — Low Power Wireless Door Display  
-*Role: PCB Designer & Firmware Engineer*  
 - Designed and assembled a 2-layer PCB for a battery-powered ESP32-based door display, integrating USB charging, battery monitoring, and a physical shutdown switch.  
 - Achieved ~7 months of battery life through hardware and firmware optimizations; contributed to interface design and usability planning.  
 **Project Repo:** [GitHub](https://github.com/your-doornote-repo)  
@@ -34,7 +32,6 @@ I’m a recent **Computer Engineering graduate from the University of Michigan (
 ---
 
 ### 🔹 Superscalar RISC-V Processor & Debugger  
-*Role: Microarchitecture Engineer & Tool Developer*  
 - Implemented core modules of an out-of-order R10K processor, including reservation station, register alias table, and dual-banked instruction cache.  
 - Developed a C++/NCurses terminal-based GUI debugger to visualize processor state per cycle, saving tens of hours in integration and testing.  
 
