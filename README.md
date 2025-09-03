@@ -27,7 +27,9 @@ I’m a recent **Computer Engineering graduate from the University of Michigan (
 *Role: PCB Designer & Firmware Engineer*  
 - Designed and assembled a 2-layer PCB for a battery-powered ESP32-based door display, integrating USB charging, battery monitoring, and a physical shutdown switch.  
 - Achieved ~7 months of battery life through hardware and firmware optimizations; contributed to interface design and usability planning.  
-👉 [Project Repo](https://github.com/your-doornote-repo) | [Design Report (Google Doc)](https://docs.google.com/your-link-here)  
+**Project Repo:** [GitHub](https://github.com/your-doornote-repo)  
+**Design Report:** [PDF](docs/final_report.pdf)  
+
 
 ---
 
@@ -35,7 +37,8 @@ I’m a recent **Computer Engineering graduate from the University of Michigan (
 *Role: Microarchitecture Engineer & Tool Developer*  
 - Implemented core modules of an out-of-order R10K processor, including reservation station, register alias table, and dual-banked instruction cache.  
 - Developed a C++/NCurses terminal-based GUI debugger to visualize processor state per cycle, saving tens of hours in integration and testing.  
-👉 [Processor Report (Google Doc)](https://docs.google.com/your-link-here)  
+
+[Processor Report (Google Doc)](https://docs.google.com/your-link-here)  
 
 ---
 
