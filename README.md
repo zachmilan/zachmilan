@@ -1,7 +1,7 @@
-# Hi, my name is Zach Milan
+# Hi, my name is Zach
 
-## 💻 About Me
-I’m a recent **Computer Engineering graduate from the University of Michigan (May 2025)** with experience in embedded systems, PCB design, and hardware/software integration, with a strong interest in developing consumer-focused embedded devices. 
+## About Me
+I’m a recent **Computer Engineering graduate from the University of Michigan (May 2025)** with experience in embedded systems, PCB design, and hardware/software integration, with an interest in developing consumer-focused embedded devices. 
 
 ---
 
