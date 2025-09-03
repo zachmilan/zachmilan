@@ -38,7 +38,7 @@ I’m a recent **Computer Engineering graduate from the University of Michigan (
 - Implemented core modules of an out-of-order R10K processor, including reservation station, register alias table, and dual-banked instruction cache.  
 - Developed a C++/NCurses terminal-based GUI debugger to visualize processor state per cycle, saving tens of hours in integration and testing.  
 
-[Processor Report (Google Doc)](https://docs.google.com/your-link-here)  
+- [Processor Report (Google Doc)](https://docs.google.com/your-link-here)  
 
 ---
 
