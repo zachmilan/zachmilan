@@ -3,6 +3,9 @@
 ## About Me
 I’m a recent **Computer Engineering graduate from the University of Michigan (May 2025)** with experience in embedded systems, PCB design, and hardware/software integration, with an interest in developing consumer-focused embedded devices. 
 
+I’m seeking a **full-time role in embedded systems or adjacent fields** where I can continue designing and building real-world hardware/software products.
+
+
 ---
 
 ## Technical Skills
@@ -18,15 +21,16 @@ I’m a recent **Computer Engineering graduate from the University of Michigan (
 ### 🔹 UM-LED — BLE Controlled LED Display  
 - Developing an STM32-based LED display with BLE control, capacitive-touch brightness adjustment, haptic feedback, auto-dimming, SD-card power logging, and USB-C rechargeability.  
 - Completed system specification, functional block diagrams, physical design concept, remote pin mapping, power estimation, and major component selection; currently designing the remote PCB schematic.  
-  [Project Repo](https://github.com/zachmilan/UM-LED) | [Design Notes (Google Drive)](https://drive.google.com/drive/folders/1vLWpR2sffBaYYivLrqG__IRlMgBAgPwl?usp=sharing)  
+- [Project Repo](https://github.com/zachmilan/UM-LED)
+- [Overview/Specification](https://github.com/zachmilan/UM-LED)  
 
 ---
 
 ### 🔹 DoorNote — Low Power Wireless Door Display  
 - Designed and assembled a 2-layer PCB for a battery-powered ESP32-based door display, integrating USB charging, battery monitoring, and a physical shutdown switch.  
 - Achieved ~7 months of battery life through hardware and firmware optimizations; contributed to interface design and usability planning.  
-**Project Repo:** [GitHub](https://github.com/your-doornote-repo)  
-**Design Report:** [PDF](docs/final_report.pdf)  
+- [Project Repo](https://github.com/zachmilan/DoorNote)  
+- [Design Report](https://github.com/zachmilan/DoorNote/docs/placeholder.txt)  
 
 
 ---
@@ -34,8 +38,8 @@ I’m a recent **Computer Engineering graduate from the University of Michigan (
 ### 🔹 Superscalar RISC-V Processor & Debugger  
 - Implemented core modules of an out-of-order R10K processor, including reservation station, register alias table, and dual-banked instruction cache.  
 - Developed a C++/NCurses terminal-based GUI debugger to visualize processor state per cycle, saving tens of hours in integration and testing.  
-
-- [Processor Report (Google Doc)](https://docs.google.com/your-link-here)  
+- [Project Repo](https://github.com/zachmilan/Superscalar-RISCV)
+- [Processor Report](https://github.com/zachmilan/Superscalar-RISCV/docs/placeholder.txt)  
 
 ---
 
@@ -46,8 +50,8 @@ Relevant Coursework: Advanced Embedded Systems, Embedded Control Systems, Comput
 ---
 
 ## Connect With Me
--  [LinkedIn](https://linkedin.com/in/your-link)  
--  [GitHub](https://github.com/yourusername)  
+-  [LinkedIn](https://www.linkedin.com/in/zachary-milan/)  
+-  [GitHub](https://github.com/zachmilan)  
 -  zmilan@umich.edu  
 
 ---
