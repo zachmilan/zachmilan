@@ -7,8 +7,9 @@ I’m a recent **Computer Engineering graduate from the University of Michigan (
 
 ## Technical Skills
 - **Programming & Languages**: C, C++, SystemVerilog, Python, Bash  
-- **Embedded Systems & Tools**: STM32, ESP32, ARM Cortex-M, FreeRTOS, Linux, KiCad, VSCode, Git  
-- **Hardware Tools & Interfaces**: Oscilloscope, Logic Analyzer, Multimeter, I²C, SPI, UART  
+- **Embedded Systems**: STM32, ESP32, ARM Cortex-M, FreeRTOS  
+- **Development Tools**: Linux (CLI, build tools), KiCad, VSCode, Git  
+- **Hardware Tools & Interfaces**: Oscilloscope, Logic Analyzer, I²C, SPI, UART  
 
 ---
 
@@ -18,7 +19,7 @@ I’m a recent **Computer Engineering graduate from the University of Michigan (
 *Role: System Designer & Firmware Developer*  
 - Developing an STM32-based LED display with BLE control, capacitive-touch brightness adjustment, haptic feedback, auto-dimming, SD-card power logging, and USB-C rechargeability.  
 - Completed system specification, functional block diagrams, physical design concept, remote pin mapping, power estimation, and major component selection; currently designing the remote PCB schematic.  
-👉 [Project Repo](https://github.com/your-umled-repo) | [Design Notes (Google Doc)](https://docs.google.com/your-link-here)  
+  [Project Repo](https://github.com/zachmilan/UM-LED) | [Design Notes (Google Drive)](https://drive.google.com/drive/folders/1vLWpR2sffBaYYivLrqG__IRlMgBAgPwl?usp=sharing)  
 
 ---
 
