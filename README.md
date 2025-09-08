@@ -14,6 +14,13 @@ I’m seeking a **full-time role in embedded systems or adjacent fields** where 
 - **Development Tools**: Linux (CLI, build tools), KiCad, VSCode, Git  
 - **Hardware Tools & Interfaces**: Oscilloscope, Logic Analyzer, I²C, SPI, UART  
 
+--- 
+
+### 🔹 UM-LED — BLE Controlled LED Display  
+
+- Developing an STM32-based LED display with BLE control, capacitive-touch brightness adjustment, haptic feedback, auto-dimming, SD-card power logging, and USB-C rechargeability.  
+- Completed system specification, functional block diagrams, physical design concept, remote pin mapping, power estimation, and major component selection; currently designing the remote PCB schematic.  
+- [Project Repo](https://github.com/zachmilan/UM-LED) | [Overview/Specification](https://github.com/zachmilan/UM-LED)  
 
 
 ---
