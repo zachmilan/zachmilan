@@ -33,10 +33,10 @@ I’m seeking a **full-time role in embedded systems or adjacent fields** where 
 
 ---
 
-### 🔹 Superscalar RISC-V Processor & Debugger  
-- Implemented core modules of an out-of-order R10K processor, including reservation station, register alias table, and dual-banked instruction cache.  
-- Developed a C++/NCurses terminal-based GUI debugger to visualize processor state per cycle, saving tens of hours in integration and testing.  
-- [Project Repo](https://github.com/zachmilan/Superscalar-RISCV) | [Processor Report](https://github.com/zachmilan/Superscalar-RISCV/docs/placeholder.txt)  
+| Superscalar RISC-V Processor & Debugger | <img src="https://github.com/zachmilan/Superscalar-RISCV/blob/main/images/470diagram.png" alt="Superscalar RISC-V" width="220"/> |
+|---|---|
+| - Implemented core modules of an out-of-order R10K processor, including reservation station, register alias table, and dual-banked instruction cache.<br><br>- Developed a C++/NCurses terminal-based GUI debugger to visualize processor state per cycle, saving tens of hours in integration and testing.<br><br>[Project Repo](https://github.com/zachmilan/Superscalar-RISCV) \| [Processor Report](https://github.com/zachmilan/Superscalar-RISCV/docs/placeholder.txt) | |
+
 
 ---
 
