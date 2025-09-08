@@ -36,7 +36,9 @@ I’m seeking a **full-time role in embedded systems or adjacent fields** where 
 - Achieved ~7 months of battery life through hardware and firmware optimizations; contributed to interface design and usability planning.  
 - [Project Repo](https://github.com/zachmilan/DoorNote) | [Design Report](https://github.com/zachmilan/DoorNote/docs/placeholder.txt)  
 
-<br clear="both"/>
+<p align="center">
+  <img src="https://github.com/zachmilan/DoorNote/blob/main/images/IMG_1364%20(1).jpg" alt="DoorNote" width="250"/>
+</p>
 
 
 
