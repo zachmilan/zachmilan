@@ -41,6 +41,7 @@ I’m seeking a **full-time role in embedded systems or adjacent fields** where 
 
 ## Education
 **University of Michigan** — B.S.E. in Computer Engineering (May 2025)  
+
 Relevant Coursework: Advanced Embedded Systems, Embedded Control Systems, Computer Architecture, Data Structures & Algorithms, Logic Design, Signals & Systems  
 
 ---
