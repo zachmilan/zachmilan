@@ -15,7 +15,7 @@ I’m seeking a **full-time role in embedded systems or adjacent fields** where 
 - **Hardware Tools & Interfaces**: Oscilloscope, Logic Analyzer, I²C, SPI, UART  
 
 --- 
-## Projects 
+## Featured Projects 
 ---
 | UM-LED — BLE Controlled LED Display | |
 |---|---|
