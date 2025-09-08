@@ -14,6 +14,8 @@ I’m seeking a **full-time role in embedded systems or adjacent fields** where 
 - **Development Tools**: Linux (CLI, build tools), KiCad, VSCode, Git  
 - **Hardware Tools & Interfaces**: Oscilloscope, Logic Analyzer, I²C, SPI, UART  
 
+
+
 ---
 
 ## Featured Projects
@@ -23,13 +25,18 @@ I’m seeking a **full-time role in embedded systems or adjacent fields** where 
 - Completed system specification, functional block diagrams, physical design concept, remote pin mapping, power estimation, and major component selection; currently designing the remote PCB schematic.  
 - [Project Repo](https://github.com/zachmilan/UM-LED) | [Overview/Specification](https://github.com/zachmilan/UM-LED)  
 
+
+
 ---
 
 ### 🔹 DoorNote — Low Power Wireless Door Display 
 <img align="right" src="https://github.com/zachmilan/DoorNote/blob/main/images/IMG_1364%20(1).jpg" alt="UM-LED" width="200"/>
+
 - Designed and assembled a 2-layer PCB for a battery-powered ESP32-based door display, integrating USB charging, battery monitoring, and a physical shutdown switch.  
 - Achieved ~7 months of battery life through hardware and firmware optimizations; contributed to interface design and usability planning.  
 - [Project Repo](https://github.com/zachmilan/DoorNote) | [Design Report](https://github.com/zachmilan/DoorNote/docs/placeholder.txt)  
+
+
 
 
 ---
