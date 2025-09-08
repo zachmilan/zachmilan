@@ -16,7 +16,7 @@ I’m seeking a **full-time role in embedded systems or adjacent fields** where 
 
 --- 
 ## Projects 
-
+---
 ### 🔹 UM-LED — BLE Controlled LED Display  
 
 - Developing an STM32-based LED display with BLE control, capacitive-touch brightness adjustment, haptic feedback, auto-dimming, SD-card power logging, and USB-C rechargeability.  
