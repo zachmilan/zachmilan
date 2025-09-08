@@ -22,7 +22,7 @@ I’m seeking a **full-time role in embedded systems or adjacent fields** where 
 
 | | |
 |---|---|
-| - Designed and assembled a 2-layer PCB for a battery-powered ESP32-based door display, integrating USB charging, battery monitoring, and a physical shutdown switch.<br><br>- Achieved ~7 months of battery life through hardware and firmware optimizations; contributed to interface design and usability planning.<br><br>[Project Repo](https://github.com/zachmilan/DoorNote) \| [Design Report](https://github.com/zachmilan/DoorNote) | <img src="https://github.com/zachmilan/DoorNote/blob/main/images/IMG_1364%20(1).jpg" alt="DoorNote" width="220"/> |
+| Designed and assembled a 2-layer PCB for a battery-powered ESP32-based door display, integrating USB charging, battery monitoring, and a physical shutdown switch.<br><br>Achieved ~7 months of battery life through hardware and firmware optimizations; contributed to interface design and usability planning.<br><br>[Project Repo](https://github.com/zachmilan/DoorNote) \| [Design Report](https://github.com/zachmilan/DoorNote) | <img src="https://github.com/zachmilan/DoorNote/blob/main/images/IMG_1364%20(1).jpg" alt="DoorNote" width="220"/> |
 
 ---
 
