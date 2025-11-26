@@ -19,7 +19,7 @@ I’m seeking a **full-time role in embedded systems or adjacent fields** where 
 
 | **UM-LED — BLE Controlled LED Display** | |
 |---|---|
-| - Developing a BLE controlled, STM32-based LED display with capacitive-touch brightness adjustment, haptic feedback, auto-dimming, SD-card power logging, and USB-C rechargeability.<br><br>- Completed system specification, functional block diagrams, physical design concept, remote pin mapping, power estimation, and major component selection; Completed the remote PCB schematic, currently finalizing remote PCB layout.<br><br>[Project Repo](https://github.com/zachmilan/UM-LED) \| [Overview/Specification](https://github.com/zachmilan/UM-LED/blob/main/docs/UM-LED%20Design%20Proposal.pdf) | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/final_proto_img.png" alt="UM-LED" width="350" /> |
+| - Developing a BLE controlled, STM32-based LED display with capacitive-touch brightness adjustment, haptic feedback, auto-dimming, SD-card power logging, and USB-C rechargeability.<br><br>- Completed system specification, functional block diagrams, physical design concept, remote pin mapping, power estimation, and major component selection; Completed the remote PCB schematic, currently finalizing remote PCB layout.<br><br>[Project Repo](https://github.com/zachmilan/UM-LED) \| [Overview/Specification](https://github.com/zachmilan/UM-LED/blob/main/docs/UM-LED_InitialDesignProposal.pdf) | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/final_proto_img.png" alt="UM-LED" width="350" /> |
 
 
 
