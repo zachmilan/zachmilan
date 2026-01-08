@@ -4,9 +4,9 @@ I am a recent Computer Engineering graduate from the University of Michigan (May
 
 I have experience in hardware-software integration from coursework and personal projects, as well as strong communcation skills developed over the years by working in a variety of roles. 
 
-I am currently seeking full-time employment to put both skills to good use and provide me with ample learning opportunities. I am currently targeting embedded roles such as firmware or hardware engineering positions, as well as Field Application Engineering roles (FAE) and Sales Engineering positions. However, I am open to working outside the realm of those titles as I believe many jobs are sufficiently interesting and provide an environment to learn something new. 
+I am currently seeking full-time employment to put both skills to good use and provide me with ample learning opportunities. I am currently targeting embedded roles such as firmware or hardware engineering positions, as well as Field Application Engineer (FAE) roles and Sales Engineer positions. However, I am open to working outside the realm of those titles as I believe many jobs are sufficiently interesting and provide an environment to learn something new. 
 
-I enjoy talking with people, asking questions, understanding the 'why' behind things. I believe I can be an asset to any team that hires me. If you would like to reach out about a potential opportunity, please email me at zmilan@umich.edu.
+I enjoy talking with people, asking questions, and understanding the 'why' behind things. I believe I can be an asset to any team that hires me. If you would like to reach out about a potential opportunity, please email me at zmilan@umich.edu.
 
 
 ---
