@@ -30,14 +30,14 @@ I enjoy talking with people, asking questions, understanding the 'why' behind th
 
 | **DoorNote — Low Power Wireless Door Display** | |
 |---|---|
-| - Designed and assembled a 2-layer PCB for a battery-powered ESP32-based door display, integrating USB charging, battery monitoring, and a physical shutdown switch.<br><br>- Achieved ~7 months of battery life through hardware and firmware optimizations; contributed to interface design and usability planning.<br><br>*(Project repository and updated documentation coming soon)* | <img src="https://github.com/zachmilan/DoorNote/blob/main/images/IMG_1364%20(1).jpg" alt="DoorNote" width="250"/> |
+| Designed and assembled a 2-layer PCB for a battery-powered ESP32-based door display, integrating USB charging, battery monitoring, and a physical shutdown switch.<br><br> Achieved ~7 months of battery life through hardware and firmware optimizations; contributed to interface design and usability planning.<br><br>*(Project repository and updated documentation coming soon)* | <img src="https://github.com/zachmilan/DoorNote/blob/main/images/IMG_1364%20(1).jpg" alt="DoorNote" width="250"/> |
 
 
 ---
 
 | **Superscalar RISC-V Processor & Debugger** | |
 |---|---|
-| - Implemented core modules of an out-of-order R10K processor, including reservation station, register alias table, and dual-banked instruction cache.<br><br>- Developed a C++/NCurses terminal-based GUI debugger to visualize processor state per cycle, saving tens of hours in integration and testing.<br><br>*(Project repository and documentation coming soon)* | <img src="https://github.com/zachmilan/Superscalar-RISCV/blob/main/images/470diagram.png" alt="Superscalar RISC-V" width="250"/> |
+| Developed a C++/NCurses terminal-based GUI debugger to visualize processor state per cycle, saving tens of hours in integration and testing.<br><br> Assisted in implementing core modules of an out-of-order R10K processor, including reservation station, register alias table, and dual-banked instruction cache.<br><br>*(Project repository and documentation coming soon)* | <img src="https://github.com/zachmilan/Superscalar-RISCV/blob/main/images/470diagram.png" alt="Superscalar RISC-V" width="250"/> |
 
 
 
