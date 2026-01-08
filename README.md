@@ -2,11 +2,11 @@
 
 I am a recent Computer Engineering graduate from the University of Michigan (May 2025) with a focus in embedded systems and computer architecture. 
 
-I have experience in hardware-software integration from coursework and personal projects, as well as strong communcation skills developed over the years by working in a variety of roles. 
+I have experience in hardware-software integration from coursework and personal projects (including PCB design and assembly) as well as strong communcation skills developed over the years by working in a variety of roles. 
 
-I am currently seeking full-time employment to put both skills to good use and provide me with ample learning opportunities. I am currently targeting embedded roles such as firmware or hardware engineering positions, as well as Field Application Engineer (FAE) roles and Sales Engineer positions. However, I am open to working outside the realm of those titles as I believe many jobs are sufficiently interesting and provide an environment to learn something new. 
+I am currently seeking full-time opportunities in firmware or hardware engineering as well as customer-facing roles such as Field Application Engineering (FAE) or technical sales. However, I am open to working outside the realm of those titles as I believe many jobs are sufficiently interesting and provide an environment to learn something new. 
 
-I enjoy talking with people, asking questions, and understanding the 'why' behind things. I believe I can be an asset to any team that hires me. If you would like to reach out about a potential opportunity, please email me at zmilan@umich.edu.
+I enjoy working with people, asking questions, and understanding the 'why' behind things. I believe I can be an asset to any team that hires me. If you would like to reach out about a potential opportunity, please email me at zmilan@umich.edu.
 
 
 ---
@@ -15,14 +15,14 @@ I enjoy talking with people, asking questions, and understanding the 'why' behin
 - **Programming & Languages**: C, C++, SystemVerilog, Bash  
 - **Embedded Systems**: STM32, ESP32, ARM Cortex-M, FreeRTOS
 - **Development Tools**: Linux CLI, KiCad, VSCode, Git  
-- **Hardware Tools & Interfaces**: Oscilloscope, Logic Analyzer, I²C, SPI, UART
+- **Hardware Tools & Interfaces**: Oscilloscope, Logic Analyzer, I²C, SPI, UART, Soldering (hot-plate, iron, hot-air)
 
 --- 
 ## Featured Projects 
 
 | **UM-LED — BLE Controlled LED Display** | |
 |---|---|
-| Developing a remote-controlled LED display with touch brightness adjustment, haptic feedback, auto-dimming, USB-C rechargeability, and more. <br><br> The remote has been designed, assembled, and brought up successfully. Drivers for the accelerometer and haptic controller are complete. Currently finalizing the remote firmware and its control flow. <br><br>[Project Repo](https://github.com/zachmilan/UM-LED) \| [Overview/Specification](https://github.com/zachmilan/UM-LED/blob/main/docs/UM-LED_InitialDesignProposal.pdf) | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8023.jpg?raw=true" alt="UM-LED" width="350" /> |
+| Developing a remote-controlled LED display with touch brightness adjustment, haptic feedback, auto-dimming, USB-C rechargeability, and more. <br><br> The remote has been designed, assembled, and brought up successfully. Drivers for the accelerometer and haptic controller are complete. Currently finalizing the remote firmware and control flow. <br><br>[Project Repo](https://github.com/zachmilan/UM-LED) \| [Overview/Specification](https://github.com/zachmilan/UM-LED/blob/main/docs/UM-LED_InitialDesignProposal.pdf) | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8023.jpg?raw=true" alt="UM-LED" width="350" /> |
 
 
 
@@ -48,6 +48,9 @@ I enjoy talking with people, asking questions, and understanding the 'why' behin
 **University of Michigan** — B.S.E. in Computer Engineering (May 2025)  
 
 **Relevant Coursework:** Advanced Embedded Systems, Embedded Control Systems, Computer Architecture, Data Structures & Algorithms, Logic Design, Signals & Systems  
+
+## Hobbies and Interests
+Reading books, weightlifting, taking long walks, watching football
 
 ---
 
