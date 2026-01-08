@@ -1,18 +1,22 @@
-# Hi, my name is Zach.
+# Hi, my name is Zach Milan.
 
 ## About Me
-I’m a recent **Computer Engineering graduate from the University of Michigan (May 2025)** with experience in embedded systems, PCB design, and hardware/software integration, with an interest in developing consumer-focused embedded devices. 
+I am a recent Computer Engineering graduate from the University of Michigan (May 2025) with a focus in embedded systems and computer architecture. 
 
-I’m seeking a **full-time role in embedded systems or adjacent fields** where I can continue designing and building real-world hardware/software products.
+I have experience in hardware-software integration from coursework and personal projects, as well as strong communcation skills developed over the years by working in a variety of roles. 
+
+I am currently seeking full-time employment to put both skills to good use and provide me with ample learning opportunities. I am currently targeting embedded roles such as firmware or hardware engineering positions, as well as Field Application Engineering roles (FAE) and Sales Engineering positions. However, I am open to working outside the realm of those titles as I believe many jobs are sufficiently interesting and provide an environment to learn something new. 
+
+I enjoy talking with people, asking questions, understanding the 'why' behind things. I believe I can be an asset to any team that hires me. If you would like to reach out about a potential opportunity, please email me at zmilan@umich.edu.
 
 
 ---
 
 ## Technical Skills
-- **Programming & Languages**: C, C++, SystemVerilog, Python, Bash  
-- **Embedded Systems**: STM32, ESP32, ARM Cortex-M, FreeRTOS  
-- **Development Tools**: Linux (CLI, build tools), KiCad, VSCode, Git  
-- **Hardware Tools & Interfaces**: Oscilloscope, Logic Analyzer, I²C, SPI, UART  
+- **Programming & Languages**: C, C++, SystemVerilog, Bash  
+- **Embedded Systems**: STM32, ESP32, ARM Cortex-M, FreeRTOS
+- **Development Tools**: Linux CLI, KiCad, VSCode, Git  
+- **Hardware Tools & Interfaces**: Oscilloscope, Logic Analyzer, I²C, SPI, UART
 
 --- 
 ## Featured Projects 
