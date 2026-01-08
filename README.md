@@ -1,6 +1,5 @@
-# Hi, my name is Zach Milan.
+## Hi, my name is Zach Milan.
 
-## About Me
 I am a recent Computer Engineering graduate from the University of Michigan (May 2025) with a focus in embedded systems and computer architecture. 
 
 I have experience in hardware-software integration from coursework and personal projects, as well as strong communcation skills developed over the years by working in a variety of roles. 
