@@ -2,7 +2,7 @@
 
 I'm a recent Computer Engineering graduate from the University of Michigan (May 2025) with a focus in embedded systems and computer architecture. 
 
-I have experience in hardware-software integration from coursework and personal projects (including PCB design and assembly) as well as strong communcation skills developed over the years by working in a variety of roles. 
+I have experience in hardware-software integration from coursework and personal projects (including PCB design and assembly) as well as strong communcation skills developed over the years working in a variety of roles. 
 
 I am currently seeking full-time opportunities in firmware or hardware engineering as well as customer-facing roles such as Field Application Engineering (FAE) or technical sales. However, I am open to working outside the realm of those titles as I believe many jobs are sufficiently interesting and provide an environment to learn something new. 
 
