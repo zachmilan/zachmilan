@@ -22,7 +22,7 @@ I enjoy working with people, asking questions, and understanding the 'why' behin
 
 | **UM-LED — BLE Controlled LED Display** | |
 |---|---|
-| Developing a remote-controlled LED display with touch brightness adjustment, haptic feedback, auto-dimming, USB-C rechargeability, and more. <br><br> The remote has been designed, assembled, and brought up successfully. Drivers for the accelerometer and haptic controller are complete. Currently finalizing the remote firmware and control flow. <br><br>[Project Repo](https://github.com/zachmilan/UM-LED) \| [Overview/Specification](https://github.com/zachmilan/UM-LED/blob/main/docs/UM-LED_InitialDesignProposal.pdf) | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8023.jpg?raw=true" alt="UM-LED" width="350" /> |
+| Developing a remote-controlled LED display system with touch brightness adjustment, haptic feedback, auto-dimming, USB-C rechargeability, and more. <br><br> The remote has been designed, assembled, and brought up successfully. Drivers for the accelerometer and haptic controller are complete. Currently writing firmware for the remote. <br><br>[Project Repo](https://github.com/zachmilan/UM-LED) \| [Overview/Specification](https://github.com/zachmilan/UM-LED/blob/main/docs/UM-LED_InitialDesignProposal.pdf) | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8023.jpg?raw=true" alt="UM-LED" width="350" /> |
 
 
 
