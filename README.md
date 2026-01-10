@@ -30,7 +30,7 @@ I enjoy working with people, asking questions, and understanding the 'why' behin
 
 | **DoorNote — Low Power Wireless Door Display** | |
 |---|---|
-| Designed and laid out a 2-layer PCB for an ESP32-based e-ink door display, including a micro-USB programming port, power switch, and battery monitoring via ADC.<br><br> Sourced parts, reviewed datasheets, and assembled the final demo board; contributed to interface design and usability planning<br><br>*(Project repository and updated documentation coming soon)* | <img src="https://github.com/zachmilan/DoorNote/blob/main/images/IMG_1364%20(1).jpg" alt="DoorNote" width="250"/> |
+| Designed and laid out a 2-layer PCB for an ESP32-based e-ink door display, including a micro-USB programming port, power switch, and battery monitoring via ADC.<br><br> Sourced parts, reviewed datasheets, and assembled the final demo board; contributed to interface design and usability planning<br><br>*(Project repository and documentation coming soon)* | <img src="https://github.com/zachmilan/DoorNote/blob/main/images/IMG_1364%20(1).jpg" alt="DoorNote" width="250"/> |
 
 
 ---
