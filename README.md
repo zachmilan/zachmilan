@@ -19,9 +19,9 @@ If you would like to contact me about a potential opportunity, please email me a
 --- 
 ## Featured Projects 
 
-| **UM-LED — BLE Controlled LED Display** | |
+| **UM-LED — Wireless LED Display with Haptic Remote** | |
 |---|---|
-| Developing a remote-controlled LED display system with touch brightness adjustment, haptic feedback, auto-dimming, USB-C rechargeability, and more. <br><br> The remote has been designed, assembled, and brought up successfully. Drivers for the accelerometer and haptic controller are complete. Currently writing firmware for the remote. <br><br>[Project Repo](https://github.com/zachmilan/UM-LED) \| [Overview/Specification](https://github.com/zachmilan/UM-LED/blob/main/docs/UM-LED%20Design%20Proposal%20(No%20Timeline).pdf) | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8023.jpg?raw=true" alt="UM-LED" width="350" /> |
+| Developing a remote-controlled LED display system with touch brightness adjustment, haptic feedback, auto-dimming, and USB-C rechargeability. <br><br> The remote, a 4-layer handheld PCB, has been designed, assembled, and brought up successfully. All features (haptics, touch, wake-on-motion, BLE, charging) work as intended and have been integrated as a system into firmware. <br><br> Currently developing the display-side schematic. <br><br>[Project Repo](https://github.com/zachmilan/UM-LED) \| [Overview/Specification](https://github.com/zachmilan/UM-LED/blob/main/docs/UM-LED%20Design%20Proposal%20(No%20Timeline).pdf) | <img src="https://github.com/zachmilan/UM-LED/blob/main/images/IMG_8023.jpg?raw=true" alt="UM-LED" width="350" /> |
 
 
 
